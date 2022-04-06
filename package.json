@@ -1,0 +1,13 @@
+{
+  "name": "@ipd/lms-pkg-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint ./src --ext .ts",
+    "start": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}

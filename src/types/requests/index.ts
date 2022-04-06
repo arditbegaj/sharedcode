@@ -1,0 +1,12 @@
+export { CourseRequest } from './course.request';
+export { MaterialRequest } from './material.request';
+export { SessionRequest } from './session.request';
+export { CourseSessionRequest } from './course-session.request';
+export { StructureRequest } from './structure.request';
+export { EnrollmentRequest } from './enrollment.request';
+export { TimePeriodRequest } from './time-period.request';
+export { UserRequest } from './user.request';
+export { InvitationRequest } from './invitation.request';
+export { StudentGradesRequest } from './student-grades.request';
+export { StudentCommentsRequest } from './comments.request';
+export { EventsRequest } from './events.request';
